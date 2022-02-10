@@ -1,0 +1,10 @@
+﻿Geschlecht;TV;MP;WP;IP;M;W;I
+M;Kinder unter 14;0,52;0,17;0,4;6;1;7
+MP;Jugendliche ab 14 unter 18;7,42;6,93;7,25;85;42;127
+W;Heranwachsende 18 bis unter 21;5,76;3,3;4,91;66;20;86
+WP;Erwachsene 21 bis unter 25;5,68;4,78;5,37;65;29;94
+X;25 bis unter 30;7,42;7,76;7,54;85;47;132
+XP;30 bis unter 40;17,29;16,5;17,02;198;100;298
+;40 bis unter 50;18,17;20,46;18,96;208;124;332
+;50 bis unter 60;21,15;25,41;22,62;242;154;396
+;60 und älter;16,59;14,69;15,93;190;89;279
